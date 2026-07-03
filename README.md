@@ -19,7 +19,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -30,26 +29,14 @@
 
 ---
 
-### 🔥 Proyectos fijados
-
-<div align="center">
-
-[![CVBoost](https://github-readme-stats.vercel.app/api/pin/?username=nabiliz12&repo=CVBoost&theme=radical)](https://github.com/nabiliz12/CVBoost)
-[![LuzHoy](https://github-readme-stats.vercel.app/api/pin/?username=nabiliz12&repo=LuzHoy&theme=radical)](https://github.com/nabiliz12/LuzHoy)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabiliz12&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nabiliz12&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiliz12&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabiliz12&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabiliz12&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiliz12&theme=radical&hide_border=true" width="98%" />
 
 </div>
 
