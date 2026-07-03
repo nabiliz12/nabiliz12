@@ -33,9 +33,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nabiliz12&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiliz12&layout=compact&theme=radical&hide_border=true" width="48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiliz12&theme=radical&hide_border=true" width="98%" />
 
 </div>
