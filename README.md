@@ -9,5 +9,4 @@ Full-stack dev · Construyendo cosas y aprendiendo por el camino
 
 ### Pinned
 
-- 🔗 [CVBoost](https://github.com/nabiliz12/CVBoost) — Generador de CVs con IA
-- 🔗 [LuzHoy](https://github.com/nabiliz12/LuzHoy) — Precios de electricidad en tiempo real
+
